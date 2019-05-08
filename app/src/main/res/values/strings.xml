@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DesingFood</string>
+    <string name="search_food">Поиск рецептов еды</string>
+    <string name="popular_order">Популярные заказы</string>
+    <string name="show_all">Показать все</string>
+    <string name="name_food">Чизбургер</string>
+    <string name="name_firm">KFC</string>
+    <string name="like">320 Лайков</string>
+    <string name="comment">47 Отзывов</string>
+    <string name="home">Дом</string>
+    <string name="history">История</string>
+    <string name="bascket">Корзина</string>
+    <string name="profil">Профиль</string>
+</resources>
